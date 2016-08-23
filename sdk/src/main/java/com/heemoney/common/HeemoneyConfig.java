@@ -7,12 +7,12 @@ public class HeemoneyConfig {
      * MCH_ID：汇收银商户号
      * KEY：汇收银支付密钥
     */
-    public final static String APP_ID = "app_JWsWp1q1nIgtjA4E";
-    public final static String MCH_ID = "1970535";
-    public final static String KEY = "123456789";
+    public final static String APP_ID = "";
+    public final static String MCH_ID = "";
+    public final static String KEY = "";
 
     //=======【Host设置】===================================== 
-    public final static String ApiBase = "http://192.168.2.95/PayHeemoney";
+    public final static String ApiBase = "";
     public final static String Version = "/api/v1";
 
     //=======【请求Url】===================================== 
